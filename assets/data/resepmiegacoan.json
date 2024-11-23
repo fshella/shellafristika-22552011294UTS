@@ -1,0 +1,13 @@
+[
+	{
+		"id": 1,
+		"name": "Bahan-bahan",
+		"bahan": "1 bungkus mi telur (isi 2), 3 siung bawang putih, 1 siung bawang merah, 5 buah cabai rawit (bisa ditambah atau dikurangi sesuai selera), 2 buah cabai merah (opsional), Garam secukupnya, 1 bungkus saus tiram, Lada bubuk secukupnya, 100 gr daging ayam, Penyedap dan kecap manis secukupnya, Pangsit goreng sebagai pelengkap"
+	},
+	{
+		"id": 2,
+		"name": "Cara Membuat",
+		"cara_membuat": "Rebus mi selama tiga menit (sisihkan), Cincang halus (daging ayam, tumis bersama bawang putih) Kemudian sisihkan, Haluskan (bawang merah, bawang putih, cabai rawit, cabai merah dan garam), Kemudian tumis hingga harum, Masukan (mi, saus tiram, serta kecap) kemudian aduk rata, Jika sudah sajikan mi bersama ayam dan pangsit goreng"
+	}
+]
+

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_shellafristika/pages/edit_profil.dart';
 
-void main(){
+void main() {
   runApp(MyApp());
 }
 
@@ -10,9 +10,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     // TODO: implement build
     return MaterialApp(
+      title: 'Resep Makanan',
       home: EditProfil(),
-
     );
   }
-
 }
